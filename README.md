@@ -6,6 +6,10 @@ It's useful for designer with Front-End background.
 ## preview:
 ![preview](https://github.com/MartinRGB/android_frameless_webview_wrapper/blob/master/art/preview.gif?raw=true)
 
+## release download
+
+[release page](https://github.com/MartinRGB/android_frameless_webview_wrapper/releases)
+
 ## instruction:
 
 - Must modified the HTML Project size parameters before you put them into Storge
