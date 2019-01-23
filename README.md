@@ -24,4 +24,4 @@ Thibaud Goiffon's [Ocean current](https://codepen.io/Gthibaud/pen/qMNYRJ)
 
 Louis Hoebregts's [Codevember 2017 - Galaxy](https://codepen.io/Mamboleoo/pen/MOwqOp)
 
-Thanks for yours inspiration
+Thanks for your inspiration
