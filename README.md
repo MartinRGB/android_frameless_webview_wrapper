@@ -10,7 +10,7 @@ It's useful for designer with Front-End background.
 
 - Must modified the HTML Project size parameters before you put them into Storge
 
-- Files in Sub Folder cannot be read
+- Files in Sub Folder cannot be read,you can check how I reorganize these project in [this folder](https://github.com/MartinRGB/android_frameless_webview_wrapper/tree/master/Codepen_Example)
 
 - There must be a 'index.html' file in root directory
 
