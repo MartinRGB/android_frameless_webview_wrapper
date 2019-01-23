@@ -1,0 +1,41 @@
+html,body{
+  height:100%;
+  user-select:none;
+}
+
+body{
+  margin:0;
+  /* display:flex;
+  align-items:center;
+  justify-content:center; */
+}
+
+canvas{
+      background-image: linear-gradient(#1dd2ac 0%, #2e069e 100%);
+  border:0px solid lightgray;
+  box-shadow: 2px 2px 4px rgba(0,0,0,0.2);
+
+}
+
+#wrapper{
+  position:relative;
+  background-color:white;
+
+}
+#wrapper .message{
+  font-family:arial;
+  font-size:24px;
+  color:white;
+  position:absolute;
+  bottom:8%;
+  left:50%;
+  transform:translate(-50%,-50%);
+  transition:all 0.8s;
+}
+
+#wrapper:hover .message{
+  color:white;
+  opacity:0;
+  transform:translate(-50%,-50%) scale(0.8);
+  bottom:6%;
+}
