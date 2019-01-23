@@ -3,6 +3,9 @@ An Android app for preview Web-based rapid protoype,you can use it for preview w
 
 It's useful for designer with Front-End background.
 
+## preview:
+![preview](https://github.com/MartinRGB/android_frameless_webview_wrapper/blob/master/art/preview.gif?raw=true)
+
 ## instruction:
 
 - Must modified the HTML Project size parameters before you put them into Storge
@@ -15,10 +18,7 @@ It's useful for designer with Front-End background.
 
 - Double Finger Double Tap to refresh the WebView
 
-## Preview:
-![preview](https://github.com/MartinRGB/android_frameless_webview_wrapper/blob/master/art/preview.gif?raw=true)
-
-## Source of demo in Preview:
+## source of demo in Preview:
 
 Thibaud Goiffon's [Ocean current](https://codepen.io/Gthibaud/pen/qMNYRJ)
 
